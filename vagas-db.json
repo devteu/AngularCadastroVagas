@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front-end",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com angular",
+      "salario": 7000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Back-end",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com java + springboot",
+      "salario": 12579
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Mobile",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com flutter",
+      "salario": 6500
+    },
+    {
+      "id": "4",
+      "nome": "Desenvolvedor Pyhon",
+      "foto": "foto4.jpg",
+      "descricao": "Dev Python FullStack",
+      "salario": "8977,66"
+    }
+  ]
+}
